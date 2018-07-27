@@ -24,3 +24,7 @@ The design can be seen below:
 The UAV can be seen flying below:
 
 ![QuadFly](https://github.com/MNahad/soton-multirotor/blob/master/assets/Untitled2.jpg "The UAV in flight")
+
+This design was featured on the University Design Show and Open Day events.
+
+http://uosdesign.org/designshow2017/year-2/aeronautics-and-astronautics
