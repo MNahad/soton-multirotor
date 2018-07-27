@@ -1,1 +1,1 @@
-Asset store
+Asset store for images and stuff
